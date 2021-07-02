@@ -1,0 +1,37 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+/* font-family: 'Open Sans Condensed', sans-serif; */
+body{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 22px;
+
+}
+.navbar{
+  color: #fff!important;
+}
+.navbar-brand{
+  font-family: 'Open Sans Condensed', sans-serif;
+
+  /* font-size: 26px; */
+  font-size: 1.625rem;
+}
+nav li{
+  padding: 0px 15px;
+  font-size: 21px;
+}
+
+.container h2{
+  padding-top: 2%;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1.5em;
+  /* font-style: italic; */
+}
+.rotate{
+  transform: rotate(20deg);
+  font-size: 1em;
+
+}
+::placeholder{
+  font-size: 18px;
+
+}
